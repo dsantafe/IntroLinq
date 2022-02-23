@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntroLinq", "IntroLinq\IntroLinq.csproj", "{F8976832-A9F3-4A2E-9F53-EE76242C02E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8976832-A9F3-4A2E-9F53-EE76242C02E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8976832-A9F3-4A2E-9F53-EE76242C02E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8976832-A9F3-4A2E-9F53-EE76242C02E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8976832-A9F3-4A2E-9F53-EE76242C02E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {159BD6B5-980F-4216-B61B-7C4E304890B7}
+	EndGlobalSection
+EndGlobal
